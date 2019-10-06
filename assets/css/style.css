@@ -53,20 +53,20 @@ body {
   /* header */
   
   #masthead {
-    position: static;
+    position: absolute;
+    color: #ffffff;
+    background: #ffffff;
+    border-bottom: 2px solid #cccccc;
     z-index: 99;
     width: 100%;
     margin: 0 0 30px;
     overflow: auto;
-    color: #ffffff;
-    background: #ffffff;
-    border-bottom: 2px solid #cccccc;
   }
   
   #logo {
     float: left;
     width: 300px;
-    height: 90px;
+    height: 100px;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 30px;
     font-weight: 700;
