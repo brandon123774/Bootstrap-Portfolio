@@ -3,7 +3,7 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background: url("../images/concrete_seamless.png");
+    background: url("../images/concrete.png");
   }
   
   * {
@@ -65,7 +65,7 @@ body {
   
   #logo {
     float: left;
-    width: 250px;
+    width: 300px;
     height: 90px;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 30px;
@@ -78,7 +78,7 @@ body {
   }
   
   nav {
-    float: right;
+    text-align: center;
     margin-top: 25px;
   }
   
